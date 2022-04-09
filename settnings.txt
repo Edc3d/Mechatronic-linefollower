@@ -1,0 +1,13 @@
+settings 1
+
+Kp = 0.2
+Kd = 1
+
+Power 215/255
+
+settnings 2
+
+kp = 0.2
+Kd = 0;
+
+Power 200/255
